@@ -127,3 +127,4 @@ CORS_ORIGIN_WHITELIST = [
     # location of our react app
     'http://localhost:3000'
 ]
+SESSION_COOKIE_SECURE = True
